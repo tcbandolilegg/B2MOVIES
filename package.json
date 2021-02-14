@@ -1,0 +1,23 @@
+{
+  "name": "B2movies",
+  "version": "1.0.0",
+  "description": "Site B2 Movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcbandolilegg/B2MOVIES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcbandolilegg/B2MOVIES/issues"
+  },
+  "homepage": "https://github.com/tcbandolilegg/B2MOVIES#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
