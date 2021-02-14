@@ -70,6 +70,7 @@ nav img {
 }
 
 button {
+  cursor: pointer;
   border-radius: 50px;
   border: 0;
 }

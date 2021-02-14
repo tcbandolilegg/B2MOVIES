@@ -5,3 +5,5 @@
 ### Recursos
 
 https://github.com/tcbandolilegg/B2MOVIES/blob/main/BD_b2movies.drawio - Arquivo com o modelo do Banco de dados e seus relacionamentos
+
+Apartir de cleta pela API http://www.omdbapi.com, foi montado o JSON de filmes.
